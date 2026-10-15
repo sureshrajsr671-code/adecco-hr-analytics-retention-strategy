@@ -1,11 +1,3 @@
-### Project 3: Adecco HR Analytics Case Study
-
-* **Repository Name:** `adecco-hr-analytics-retention-strategy`
-* **Description:** HR workforce analytics across 4,410 Adecco employee records diagnosing junior turnover (24.8% vs 16.1% company avg), overtime burnout (>8.5h/day), and career stagnation.
-* **Updated Clean Dashboard:**
-  `adecco_hr_dashboard_v2.png`
-
-```markdown
 # Adecco India: Data-Driven Retention Strategy and HR Analytics
 
 Analyzing Employee Attrition and Enhancing Engagement for Junior Staff at Adecco India.
@@ -82,7 +74,7 @@ A comprehensive empirical investigation across 4,410 staff records, highlighting
 ├── working_files/
 │   └── Adecco_HR_Analytics_Working_File.xlsx
 ├── screenshots/
-│   └── adecco_hr_dashboard_v2.png
+│   └── adecco_hr_dashboard_clean.png
 ├── presentation/
 │   └── Adecco HR Analytics Case Study.pptx
 └── README.md
