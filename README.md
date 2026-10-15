@@ -1,5 +1,3 @@
----
-
 ### Project 3: Adecco HR Analytics Case Study
 
 * **Repository Name:** `adecco-hr-analytics-retention-strategy`
